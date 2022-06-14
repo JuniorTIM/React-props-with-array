@@ -1,0 +1,26 @@
+.titlePanel {
+    font-size: 18px;
+    margin-bottom: 14%;
+    margin-left: 2%;
+}
+
+.panelWidth {
+    width: 230px;
+}
+
+.shopCategories {
+    width: 210px;
+    margin-left: 2%;
+}
+
+.gadgets {
+    padding-left: 2%;
+}
+
+.houseTehnick {
+    padding-left: 2%;
+}
+
+.others {
+    padding-left: 2%;
+}
